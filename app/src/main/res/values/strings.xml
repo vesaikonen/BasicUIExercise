@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BasicUIExercise</string>
+    <string name="food1">Meatballs</string>
+    <string name="food2">Chicken</string>
+    <string name="food3">Fish</string>
+    <string name="food4">Steak</string>
+    <string name="food5">Carrots</string>
+    <string name="select_button">Select</string>
+</resources>
